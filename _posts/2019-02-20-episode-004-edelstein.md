@@ -15,7 +15,7 @@ Dr. Edelstein is a clinical psychologist living in the San Francisco Bay area wh
 
 Dr. Edelstein has co-authored four books - Three Minute Therapy, Rational Drinking, Stage Fright, and Therapy Breakthrough. He lectures nationally and internationally, appears on radio and TV and his publications have appeared in psychological journals.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/8712119/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/6fb0e3/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe class="podcast" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/8712119/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/6fb0e3/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ## Email Dr. Edelstein
 [DrEdelstein@ThreeMinuteTherapy.com](mailto://DrEdelstein@ThreeMinuteTherapy.com)
