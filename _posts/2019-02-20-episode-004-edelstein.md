@@ -27,8 +27,11 @@ Dr. Edelstein has co-authored four books - Three Minute Therapy, Rational Drinki
 ## Books
 
 [Three Minute Therapy: Change Your Thinking, Change Your Life](https://www.amazon.com/Three-Minute-Therapy-Change-Thinking/dp/0944435424/ref=sr_1_1?ie=UTF8&qid=1550634817&sr=8-1&keywords=michael+edelstein)
+
 [Rational Drinking:  How to Live Happily With or Without Alchohol](https://www.amazon.com/gp/product/1523245514/ref=dbs_a_def_rwt_bibl_vppi_i1)
+
 [Stage Fright: 40 Stars Tell You How They Beat America's #1 Fear](https://www.amazon.com/gp/product/1884365469/ref=dbs_a_def_rwt_bibl_vppi_i2)
+
 [Therapy Breakthrough: Why Some Psychotherapies Work Better Than Others](https://www.amazon.com/gp/product/0812696867/ref=dbs_a_def_rwt_bibl_vppi_i3)
 
 
